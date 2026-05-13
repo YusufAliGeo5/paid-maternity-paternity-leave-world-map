@@ -12,7 +12,7 @@ The map uses World Bank Women, Business and the Law 2026 Parenthood indicators a
 
 Explore the interactive ArcGIS Online version here:
 
-[Interactive Map](https://bcitgis.maps.arcgis.com/apps/instant/basic/index.html?appid=c24b6c89680b4f068c252a85c47d97d3)
+[Interactive Map]((https://yusufali.maps.arcgis.com/apps/instant/basic/index.html?appid=74b4aad55b9a478088ed3a5976dc81b8))
 
 ## Key Takeaways
 
