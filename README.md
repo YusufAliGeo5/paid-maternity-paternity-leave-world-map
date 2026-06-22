@@ -1,6 +1,6 @@
-# Paid Maternity Leave Around the World
+# Paid Maternity and Paternity Leave Around the World
 
-A Mother’s Day data visualization project mapping paid maternity leave available to mothers around the world.
+A Mother’s and Father's Day data visualization project mapping paid maternity leave available to mothers around the world.
 
 The map uses World Bank Women, Business and the Law 2026 Parenthood indicators and visualizes paid maternity leave in weekly categories across 190 economies.
 
