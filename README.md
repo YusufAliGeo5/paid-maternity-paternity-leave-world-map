@@ -22,7 +22,7 @@ The project uses World Bank Women, Business and the Law 2026 Parenthood indicato
 
 Explore the interactive ArcGIS Online version here:
 
-[Interactive Map](https://yusufali.maps.arcgis.com/apps/instant/basic/index.html?appid=74b4aad55b9a478088ed3a5976dc81b8)
+[Interactive Map](Under Development)
 
 ## Key Takeaways
 
