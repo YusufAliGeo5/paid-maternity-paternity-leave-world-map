@@ -22,7 +22,7 @@ The project uses World Bank Women, Business and the Law 2026 Parenthood indicato
 
 Explore the interactive ArcGIS Online version here:
 
-[Interactive Map](Under Development)
+(Under Development)
 
 ## Key Takeaways
 
@@ -50,8 +50,6 @@ Data source links:
 The cleaned CSV files in this repository are derived from the Parenthood section of the World Bank Women, Business and the Law 2026 data.
 
 ## Files
-
-Recommended repository structure:
 
 * `data/cleaned/WBL2026_Maternity_Leave_ArcGIS.csv`
   Cleaned maternity leave dataset used for mapping.
