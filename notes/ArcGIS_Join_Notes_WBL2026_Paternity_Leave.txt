@@ -1,0 +1,30 @@
+ArcGIS Join Notes
+Paid Paternity Leave Around the World
+
+Main cleaned file:
+WBL2026_Paternity_Leave_ArcGIS.csv
+
+Source:
+World Bank, Women, Business and the Law 2026, Parenthood indicators.
+
+Primary join field:
+ISO_A3
+
+Main mapped field:
+PAT_CLASS_WEEKS
+
+Mapped classes:
+0 weeks
+<1 week
+1 week
+2–3 weeks
+4+ weeks
+
+Notes:
+The cleaned CSV was derived from the WBL 2026 Parenthood indicators and prepared for joining to a world countries boundary layer using ISO_A3 country/economy codes.
+
+Limitations:
+This map shows paid leave available to fathers. It does not represent total parental leave, unpaid leave, wage replacement rates, eligibility rules, or actual uptake.
+
+Created by:
+Yusuf Ali
