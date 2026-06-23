@@ -16,7 +16,7 @@ The project uses World Bank Women, Business and the Law 2026 Parenthood indicato
 
 ### Mothers and Fathers Comparison
 
-![Paid Leave for Mothers and Fathers Around the World](outputs/Paid_Leave_Mothers_Fathers_Around_the_World.png)
+![Paid Leave for Mothers and Fathers Around the World](outputs/Paid_Leave_Mothers_Fathers_Around_the_World2.png)
 
 ## Interactive Version
 
